@@ -12,5 +12,5 @@ A number is considered **prime** if:
 - The function should return a boolean value (`True` or `False`).
 
 ## How to Run
-To run the solution, ensure you have Python installed on your Arch Linux machine:
+Run number_prime.py
 
