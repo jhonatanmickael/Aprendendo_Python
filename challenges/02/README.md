@@ -14,4 +14,4 @@ Given two sorted integer arrays, your task is to merge them into a single sorted
 
 ---
 
-challenge by: labs one bit code
+challenge by: <span translate="no">Labs OneBitCode</span>

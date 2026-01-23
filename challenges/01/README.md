@@ -10,3 +10,6 @@ A number is considered **prime** if:
 ## How to Run
 Run number_prime.py
 
+---
+
+challenge by: <span translate="no">Labs OneBitCode</span>
