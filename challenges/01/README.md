@@ -9,7 +9,6 @@ A number is considered **prime** if:
 
 ## Requirements
 - The solution must handle edge cases, such as **negative numbers** and **zero**.
-- The function should return a boolean value (`True` or `False`).
 
 ## How to Run
 Run number_prime.py
