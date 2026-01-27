@@ -1,3 +1,8 @@
+# Author: jhonatanmickael
+# Description: ISBN-10 Validator (Validador de ISBN-10)
+# Challenge by: 'Labs One Bit Code'
+# Date: 2026-01-27
+
 def verificar_isbn(entrada):
 
     if len(entrada) != 10:
